@@ -1,5 +1,5 @@
 import React from 'react';
-import HelloWorld from './Views/HelloWorld';
+import HelloWorld from './Test/HelloWorld';
 import './App.css';
 
 function App() {

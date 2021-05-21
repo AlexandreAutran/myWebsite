@@ -1,6 +1,6 @@
 # EcoCote
 
-Web site
+Website
 
 ## Quick link
 
@@ -11,7 +11,7 @@ Web site
 
 ### Instalation guide
 
-Follow the instruction from the [react](https://reactnative.dev/docs/0.61/getting-started)
+Follow the instruction from the [react](https://www.taniarascia.com/getting-started-with-react/#create-react-app)
 Choose the "..."
 
 #### Software version choosen
@@ -30,10 +30,8 @@ Choose the "..."
 **When all tools are installed**
 
 ``` bash
-git clone project
-cd project
+git remote add origin https://github.com/AlexandreAutran/EcoCote.git
 npm install
-npm react-native run-android
 ```
 
 **Before starting coding**
