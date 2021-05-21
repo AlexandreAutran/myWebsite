@@ -11,12 +11,10 @@ Website
 
 ### Instalation guide
 
-Follow the instruction from the [react](https://www.taniarascia.com/getting-started-with-react/#create-react-app)
-Choose the "..."
+Follow the instruction from the [Node.js and npm](https://www.taniarascia.com/how-to-install-and-use-node-js-and-npm-mac-and-windows/) installed globally.
 
 #### Software version choosen
 
-- Java JDK : 15.0.1 [link](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html)
 - Node : 12.19.0-x64 [link](https://nodejs.org/dist/v12.19.0/node-v12.19.0-x64.msi)
 
 ### Visual studio Extension
@@ -38,7 +36,7 @@ npm install
 
 [RTFM](https://en.wikipedia.org/wiki/RTFM) => [here](./Spec/index.md)
 
-[Nomenclature] => [here](./Spec/Rules/nomenclature.md)
+Tree structure => [here](./Spec/Rules/nomenclature.md)
 
 If you use Visual studio code for the project, here some practical extension
 
