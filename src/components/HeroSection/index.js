@@ -16,8 +16,8 @@ const onHover = () => {
         <VideoBg autoPlay loop muted src={Video} type='/video/mp4' />
       </HeroBg>
       <HeroContent>
-        <HeroH1>Virtual Banking Made Easy</HeroH1>
-        <HeroP> Sign up for a new account today and receive 5E in credit towards your next payment.</HeroP>
+        <HeroH1>Ecocoricoo</HeroH1>
+        <HeroP> Les meilleurs produits, près de chez vous avec 0 déchets et 0 CO2</HeroP>
         <HeroBtnWrapper>
           <Button 
             to="signup" 
@@ -26,7 +26,7 @@ const onHover = () => {
             primary= "true"
             dark= "true"
              >
-            Get started {hover ? <ArrowForward /> : <ArrowRight />}
+            C'est Parti {hover ? <ArrowForward /> : <ArrowRight />}
           </Button>
         </HeroBtnWrapper>
       </HeroContent>
