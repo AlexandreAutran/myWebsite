@@ -1,12 +1,12 @@
 import React from 'react';
-import HelloWorld from './Test/HelloWorld';
-import './App.css';
+import Home from './pages';
+import { BrowserRouter as Router } from 'react-router-dom'
 
 function App() {
   return (
-    <div className="App">
-      <HelloWorld />
-    </div>
+    <Router>
+      <Home />
+    </Router>
   );
 }
 
