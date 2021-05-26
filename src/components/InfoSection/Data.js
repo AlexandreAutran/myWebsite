@@ -1,3 +1,5 @@
+import image1 from '../../images/svg-1.svg'
+
 export const homeObjOne = {
   id: 'about',
   lightBg: false,
@@ -8,7 +10,7 @@ export const homeObjOne = {
   description: 'Nous croyons en un monde nouveau, où les consommateurs deviendraient des acteurs pour la planète. Nous voulons acheter des produits de saisons, tout en connaissant leurs producteurs. Nous sommes prêts à donner de notre temps 2-3 fois par an.',
   buttonLabel: 'Je rejoins',
   imgStart: false,
-  img: require('../../images/svg-1.svg'),
+  img: image1,
   alt: 'Consomm\'Acteur',
   dark: true,
   primary: true,
