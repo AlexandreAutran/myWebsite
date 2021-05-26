@@ -36,7 +36,7 @@ npm install
 
 [RTFM](https://en.wikipedia.org/wiki/RTFM) => [here](./Spec/index.md)
 
-Tree structure => [here](./Spec/Rules/nomenclature.md)
+Nomenclature => [here](./spec/rules/index.md)
 
 If you use Visual studio code for the project, here some practical extension
 
