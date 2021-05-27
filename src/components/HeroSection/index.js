@@ -11,7 +11,7 @@ const onHover = () => {
 }
 
   return (
-    <HeroContainer>
+    <HeroContainer id='home'>
       <HeroBg>
         <VideoBg autoPlay loop muted src={Video} type='/video/mp4' />
       </HeroBg>
@@ -20,11 +20,16 @@ const onHover = () => {
         <HeroP> Les meilleurs produits, près de chez vous avec 0 déchets et 0 CO2</HeroP>
         <HeroBtnWrapper>
           <Button 
-            to="signup" 
+            to='signup'
             onMouseEnter={onHover} 
             onMouseLeave={onHover}
-            primary= "true"
-            dark= "true"
+            primary= 'true'
+            dark= 'true'
+            smooth={true} 
+            duration={500} 
+            spy={true} 
+            exact='true' 
+            offset={-80} 
              >
             C'est Parti {hover ? <ArrowForward /> : <ArrowRight />}
           </Button>
