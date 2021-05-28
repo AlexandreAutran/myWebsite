@@ -1,11 +1,10 @@
-# EcoCote
+# myWebsite
 
 Website
 
 ## Quick link
 
 - [Index spec](./Spec/index.md)
-- [Index meeting](./Meeting/index.md)
 
 ## Development environment
 
@@ -28,7 +27,7 @@ Follow the instruction from the [Node.js and npm](https://www.taniarascia.com/ho
 **When all tools are installed**
 
 ``` bash
-git remote add origin https://github.com/AlexandreAutran/EcoCote.git
+git clone https://github.com/AlexandreAutran/myWebsite.git
 npm install
 ```
 
